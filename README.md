@@ -1,1 +1,1 @@
-# BeriKabar
+### Berikut adalah Aplikasi yang saya bangun ketika saya mendapatkan tugas untuk membangun sebuah aplikasi android yang mempunyai kegunaan untuk menampilkan sebuah berita, dan memberikan kemudahan kepada user dalam mengetahui berita melalui fitur-fitur yang tersedia
